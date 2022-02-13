@@ -1,0 +1,1 @@
+This is a testfile to check if sync between goormIDE and git is working.
